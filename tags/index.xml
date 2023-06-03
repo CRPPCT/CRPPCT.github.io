@@ -25,5 +25,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>病史采集图片</title>
+      <link>http://example.org/tags/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86%E5%9B%BE%E7%89%87/</link>
+      <pubDate>Fri, 02 Jun 2023 21:05:55 +0800</pubDate>
+      
+      <guid>http://example.org/tags/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86%E5%9B%BE%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
