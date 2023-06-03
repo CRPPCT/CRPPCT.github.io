@@ -3,9 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/categories/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/%E5%8C%BB%E5%AD%A6/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/%E5%8F%91%E7%83%AD/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/diagnostics-%E8%AF%8A%E6%96%AD%E5%AD%A6%E7%9B%AE%E5%BD%95/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/%E8%AF%8A%E6%96%AD%E5%AD%A6/</loc>
+    <lastmod>2023-06-02T21:55:55+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/post/hello-world%E8%AF%AD%E6%B3%95%E7%A4%BA%E8%8C%83/</loc>
+    <lastmod>2023-06-02T21:45:55+08:00</lastmod>
   </url>
 </urlset>
