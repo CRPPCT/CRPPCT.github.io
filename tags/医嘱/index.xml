@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>医嘱 on The doctor job</title>
-    <link>http://example.org/tags/%E5%8C%BB%E5%98%B1/</link>
+    <link>https://CRPPCT.github.io/tags/%E5%8C%BB%E5%98%B1/</link>
     <description>Recent content in 医嘱 on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/%E5%8C%BB%E5%98%B1/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://CRPPCT.github.io/tags/%E5%8C%BB%E5%98%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>临时嘱托</title>
-      <link>http://example.org/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</link>
+      <link>https://CRPPCT.github.io/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</guid>
       <description>&lt;p&gt;以图片形式&lt;/p&gt;</description>
     </item>
     

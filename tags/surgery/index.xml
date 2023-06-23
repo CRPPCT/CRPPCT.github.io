@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Surgery on The doctor job</title>
-    <link>http://example.org/tags/surgery/</link>
+    <link>https://CRPPCT.github.io/tags/surgery/</link>
     <description>Recent content in Surgery on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/surgery/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://CRPPCT.github.io/tags/surgery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Surgery book</title>
-      <link>http://example.org/post/surgery/</link>
+      <link>https://CRPPCT.github.io/post/surgery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/surgery/</guid>
+      <guid>https://CRPPCT.github.io/post/surgery/</guid>
       <description>&lt;p&gt;目录 外科绪论 This is  first post.&lt;/p&gt;</description>
     </item>
     

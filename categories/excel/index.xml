@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>excel on The doctor job</title>
-    <link>http://example.org/categories/excel/</link>
+    <link>https://CRPPCT.github.io/categories/excel/</link>
     <description>Recent content in excel on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/excel/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://CRPPCT.github.io/categories/excel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>excel公式</title>
-      <link>http://example.org/post/excel/</link>
+      <link>https://CRPPCT.github.io/post/excel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/excel/</guid>
+      <guid>https://CRPPCT.github.io/post/excel/</guid>
       <description>excel提取公式
 Quick Start =right（A1,len(A1)-1)前面第一个删除=left（A2,len(A2)-1)末尾一个删除举例云南省，四川省，=mid(a2,find(&amp;#34;省&amp;#34;)a2)+1,len(a2)-find(&amp;#34;省&amp;#34;,a2)提取省字后面的字符提取省之前的字符=left(a1,search(&amp;#34;-&amp;#34;,a1)-1)SUBSTITUTE函数主要用来对指定字符串进行替换，利用SUBSTITUTE函数我们可以对指定数字进行替换，如下表，我们想把房号中的8栋统一替换成9栋，输入公式从向下填充：=SUBSTITUTE(A2,&amp;#34;8&amp;#34;,&amp;#34;9&amp;#34;,1) RELEASE CODENAME DOCUMENTATION 10 - </description>
     </item>

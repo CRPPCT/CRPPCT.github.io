@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MD语法 on The doctor job</title>
-    <link>http://example.org/categories/md%E8%AF%AD%E6%B3%95/</link>
+    <link>https://CRPPCT.github.io/categories/md%E8%AF%AD%E6%B3%95/</link>
     <description>Recent content in MD语法 on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/md%E8%AF%AD%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://CRPPCT.github.io/categories/md%E8%AF%AD%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>小修饰</title>
-      <link>http://example.org/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</link>
+      <link>https://CRPPCT.github.io/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</guid>
       <description>参照来自某些小修饰（加粗，颜色变化等）
 Quick Start 插入字 https://brook-power-970.notion.site/PDF-918fcbeb57bf482a84b6a609b454b806
 上标字123 123下标字 redis 是非常重要的。

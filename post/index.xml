@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The doctor job</title>
-    <link>http://example.org/post/</link>
+    <link>https://CRPPCT.github.io/post/</link>
     <description>Recent content in Posts on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jun 2023 21:45:55 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 21:45:55 +0800</lastBuildDate><atom:link href="https://CRPPCT.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>住院患者抢救成功率与报病重病危标准-节选</title>
-      <link>http://example.org/post/%E7%97%85%E9%87%8D%E7%97%85%E5%8D%B1%E6%A0%87%E5%87%86/</link>
+      <link>https://CRPPCT.github.io/post/%E7%97%85%E9%87%8D%E7%97%85%E5%8D%B1%E6%A0%87%E5%87%86/</link>
       <pubDate>Fri, 23 Jun 2023 21:45:55 +0800</pubDate>
       
-      <guid>http://example.org/post/%E7%97%85%E9%87%8D%E7%97%85%E5%8D%B1%E6%A0%87%E5%87%86/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%97%85%E9%87%8D%E7%97%85%E5%8D%B1%E6%A0%87%E5%87%86/</guid>
       <description></description>
     </item>
     
     <item>
       <title>文件整理方法杜威十进制图书分类法</title>
-      <link>http://example.org/post/%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</link>
+      <link>https://CRPPCT.github.io/post/%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</link>
       <pubDate>Thu, 22 Jun 2023 22:45:55 +0800</pubDate>
       
-      <guid>http://example.org/post/%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</guid>
+      <guid>https://CRPPCT.github.io/post/%E6%96%87%E4%BB%B6%E6%95%B4%E7%90%86%E6%96%B9%E6%B3%95/</guid>
       <description>杜威十进制图书分类法 文件夹命名示范 000 计算机类
 100 文学类
 101 记叙文
@@ -32,10 +32,10 @@
     
     <item>
       <title>目录诊断学</title>
-      <link>http://example.org/post/diagnostics-%E8%AF%8A%E6%96%AD%E5%AD%A6%E7%9B%AE%E5%BD%95/</link>
+      <link>https://CRPPCT.github.io/post/diagnostics-%E8%AF%8A%E6%96%AD%E5%AD%A6%E7%9B%AE%E5%BD%95/</link>
       <pubDate>Fri, 02 Jun 2023 21:55:55 +0800</pubDate>
       
-      <guid>http://example.org/post/diagnostics-%E8%AF%8A%E6%96%AD%E5%AD%A6%E7%9B%AE%E5%BD%95/</guid>
+      <guid>https://CRPPCT.github.io/post/diagnostics-%E8%AF%8A%E6%96%AD%E5%AD%A6%E7%9B%AE%E5%BD%95/</guid>
       <description>&lt;p&gt;This is Diagnostics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;视触扣听**&lt;/li&gt;
@@ -44,28 +44,28 @@
     
     <item>
       <title>示范</title>
-      <link>http://example.org/post/hello-world%E6%B3%95%E7%A4%BA%E8%8C%83/</link>
+      <link>https://CRPPCT.github.io/post/hello-world%E6%B3%95%E7%A4%BA%E8%8C%83/</link>
       <pubDate>Fri, 02 Jun 2023 21:45:55 +0800</pubDate>
       
-      <guid>http://example.org/post/hello-world%E6%B3%95%E7%A4%BA%E8%8C%83/</guid>
+      <guid>https://CRPPCT.github.io/post/hello-world%E6%B3%95%E7%A4%BA%E8%8C%83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>示范语法</title>
-      <link>http://example.org/post/hello-world%E8%AF%AD%E6%B3%95%E7%A4%BA%E8%8C%83/</link>
+      <link>https://CRPPCT.github.io/post/hello-world%E8%AF%AD%E6%B3%95%E7%A4%BA%E8%8C%83/</link>
       <pubDate>Fri, 02 Jun 2023 21:45:55 +0800</pubDate>
       
-      <guid>http://example.org/post/hello-world%E8%AF%AD%E6%B3%95%E7%A4%BA%E8%8C%83/</guid>
+      <guid>https://CRPPCT.github.io/post/hello-world%E8%AF%AD%E6%B3%95%E7%A4%BA%E8%8C%83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>模板</title>
-      <link>http://example.org/post/blog/</link>
+      <link>https://CRPPCT.github.io/post/blog/</link>
       <pubDate>Fri, 02 Jun 2023 21:05:55 +0800</pubDate>
       
-      <guid>http://example.org/post/blog/</guid>
+      <guid>https://CRPPCT.github.io/post/blog/</guid>
       <description>**
 内科 主诉：反复咳嗽、咳痰25年，心悸、气急、浮肿2.5年，加重20d。现病史：患者自1978年起，无明显诱因地出现咳嗽、略痰，每遇发作持续7至10d，经“土霉素，甘草合剂”等药治疗，即可好转。每年发作2至3次，多在秋末冬初时，工作、生活不受影响。1993年以来，咳嗽、咳痰加重，早晚尤剧，有时伴气短。每日痰量10至20ml，为白色泡沫样，需青霉素等药物治疗方可缓解。每次持续3个月以上，天气转暖，则上述症状缓解。上楼、干重活时，有心慌、气急感，但日常生活尚可自理。曾多次到区医院就诊，诊断为 “慢性支气管炎，肺气肿”，经常服用止咳、祛痰、平喘药。2001年冬起，咳嗽及咳白色泡沫痰终年不停，且无明显季节性。时有发热，体温多在38℃左右。每日痰量50至60ml，发热时痰量可增至100ml左右，呈黄色脓性痰，伴气急、气喘、心悸、双下肢浮肿，动则气急、心悸加重。曾在本市××医院住院3次，诊断均为“慢性支气管炎、肺气肿、肺源性心肌病”。经“青霉素、氨茶碱、氨苯蝶啶等”药物治疗，心悸、气急好转，浮肿消退。出院后，日常生活不能完全自理，有时静卧亦觉气急。 此次于2003年11月23日受凉后，上述症状又发作。咳黄色脓性痰，不易咯出。心悸、气急加重，双下肢浮肿，尿量减少，口唇发绀。进食少许即觉上腹部饱胀不适，并有轻度恶心。经“青霉素、消咳喘”等药治疗未见好转。 于今日送我院就诊。本次发作以来，无呕吐、腹泻。小便量减少。 既往史：平素身体较差，1995年经X线钡餐摄片检查诊断为“胃黏膜萎缩”，目前仍有胃纳欠佳，食后上腹部饱胀感。幼年曾患“麻疹、水痘、流脑、流腮”等传染病。预防接种史不详，无外伤、手术、输血及药物过敏史。个人史：出生原籍，无长期外地居住史。吸烟42年，每天10支左右， 1994年已戒烟。无饮酒嗜好。24岁结婚，妻健在。一子二女身体健康。家族史：父于1962年病故，死因不明。母1976年因“肺气肿”病故。否认家族中有传染病、肿瘤病史及遗传病史。 体格检查 体温36℃脉搏100/min呼吸32/min血压90/60mmHg发育正常，营养欠佳，慢性重病容。神志清楚，取半卧位，呼吸及语言困难。烦躁，体检欠合作。巩膜及皮肤未见黄染，浅表淋巴结无肿大。头颅无异常。眼睑无浮肿。两侧瞳孔正常大小，等大等圆，对光反射灵敏，耳无脓性分泌物。鼻通气良好。口腔无特殊气味，唇发绀，扁桃体无肿大，咽部充血，伸舌居中。桶状胸，肋间隙增宽。吸气时呈“三凹”征。两侧呼吸运动对称，节律规则。未触及胸膜摩擦感及握雪感。叩诊呈过清音。两肺呼吸音较弱，呼吸音延长，两肺上部可闻及干啰音，两肩胛下区可闻及细湿啰音。心前区无隆起。剑突下可见心尖搏动，范围较弥散。未触及细震颤。心界叩不出，心率104/min，心律齐，各瓣膜区未闻及病理性杂音。腹平软，肝肋缘下3cm，剑突下5cm，质中，边缘钝，轻度触痛：脾未触及。全腹无压痛及反跳痛，无移动性浊音。肠鸣音正常。肛门、直肠、外生殖器无异常。脊柱、四肢无畸形，运动无障碍，关节无红肿，无杵状指、趾，双下肢小腿以下呈凹陷性浮肿。腹壁反射、二头肌、三头肌、膝腱、跟腱反射正常，巴彬斯基征、脑膜刺激征阴性。 辅助检查检查日期 项目 结果 2002-12-07血常规 血红蛋白156g/L，红细胞4.8×102/L白细胞11×10°/L，中性粒细胞0.8，淋巴细胞0.15，单核细胞0.02。 2002-12-07 X线胸片： 两肺透亮度增加，肺纹理紊乱、增多。右肺下动脉干横径18mm，心影大小 正常。 初步诊断： 1.慢性支气管炎急性发作；慢性阻塞性肺气肿：慢性肺源性心脏病；心功能W级 2.胃黏膜萎缩
 外科 主诉：右腹股沟区可复性包块3月余。 现病史：患者于3个月前在一次登山时，发现右腹股沟有一包块，不痛，扪之质软，平卧后自行消失。以后在行走或骑自行车时，感觉局部不适，有下坠感，包块易在咳嗽用力时出现，并增至拳头大小，但无腹痛、呕吐，也无发热。自己用手按摩局部也可消失。近日来我院外科门诊检查，诊断为“右腹股沟疝”，收住院准备手术治疗。病人自患病以来未影响晨起后的太极拳活动，精神、食欲良好，大小便正常，未经药物和其他方法治疗，既往史：有“高血压”史10余年，近两年来有时心前区疼痛，曾做心电图检查，诊为“冠状动脉供血不足”。有时头晕、心悸、胸闷，心率较慢，50/min左右，经常服“降压片”。无肝炎、结核等传染病史，预防接种史不详，无手术、外伤、输血及药物过敏史。 个人史：生于济南，原在济南市土产公司工作，现退休在家。有吸烟嗜好，每日20支左右。饮酒少量。22岁结婚，妻子健康，有一子一女均健在。家族史：父于1982年因患“高血压、脑出血”病故，母于1990年因患“慢性肺心病”病故，家中无结核，肿瘤及精神病患者。 体格检查 体温36.7℃脉搏60/min呼吸19/min血压180/100mmHg一般情况良好，发育正常，营养良好，超力型，神志清，查体合作。皮肤、黏膜正常。全身浅表淋巴结未触及。头颅无异常，眼脸无水肿，两侧脸裂等大，结膜无充血，角膜透明，两侧瞳孔等大，对光及调节反射存在。耳、鼻无特殊发现。口唇无发绀，牙龈无出血，颊黏膜无溃疡，咽不充血，两侧扁桃体不肿大。颈软，气管居中，甲状腺不肿大。胸部对称，无胸壁静脉曲张，两肺呼吸音清晰，未闻及干湿啰音。心界向左下稍扩大，心率60/min，律整，心音无异常，心尖区有2/6吹风样收缩期杂音，不传导，A2&amp;gt;P2。腹部平山，软，无压痛，肝脾未触及，肝肾区无叩痛，无移动性浊音，肠鸣音正常。直肠肛门未发现异常，外生殖器正常。脊柱、四肢无异常。腹壁反射、提睾反射正常，肱二头肌、肱三头肌、跟腱、膝腱反射正常，巴彬斯基征、脑膜刺激征阴性。 外科检查：站立时右侧腹股沟处可见椭圆形包块，约9cm×7cm×8cm，达阴囊上方，质软，不透光，在包块处可听到肠鸣音。病人仰卧，用手法很容易将包块还纳，腹股沟外环可容2指，病人咳嗽时有冲击感。 辅助检查检查日期 项目结果 2002-09-17血常规 正常 2002-09-17 BT：1 min CT：1.5 min2002-09-11肝功能 正常（济南市中医院）2001-09-17胸透 两肺正常，主动脉结突出，主动脉纡曲 延长，左心室增大。 2001-09-17心电图 窦性心律，电轴左偏，左心室肥大。 初步诊断： 1.右腹股沟斜疝 2.高血压病（Ⅲ级） 3.冠状动脉粥样硬化性心脏病
@@ -74,75 +74,66 @@
     </item>
     
     <item>
-      <title>🚩在线工具navigation导航页</title>
-      <link>http://example.org/post/navigation%E5%AF%BC%E8%88%AA%E9%A1%B5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/post/navigation%E5%AF%BC%E8%88%AA%E9%A1%B5/</guid>
-      <description>&lt;h2 id=&#34;分类超链接&#34;&gt;分类+超链接&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
       <title>excel公式</title>
-      <link>http://example.org/post/excel/</link>
+      <link>https://CRPPCT.github.io/post/excel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/excel/</guid>
+      <guid>https://CRPPCT.github.io/post/excel/</guid>
       <description>excel提取公式
 Quick Start =right（A1,len(A1)-1)前面第一个删除=left（A2,len(A2)-1)末尾一个删除举例云南省，四川省，=mid(a2,find(&amp;#34;省&amp;#34;)a2)+1,len(a2)-find(&amp;#34;省&amp;#34;,a2)提取省字后面的字符提取省之前的字符=left(a1,search(&amp;#34;-&amp;#34;,a1)-1)SUBSTITUTE函数主要用来对指定字符串进行替换，利用SUBSTITUTE函数我们可以对指定数字进行替换，如下表，我们想把房号中的8栋统一替换成9栋，输入公式从向下填充：=SUBSTITUTE(A2,&amp;#34;8&amp;#34;,&amp;#34;9&amp;#34;,1) RELEASE CODENAME DOCUMENTATION 10 - </description>
     </item>
     
     <item>
       <title>Surgery book</title>
-      <link>http://example.org/post/surgery/</link>
+      <link>https://CRPPCT.github.io/post/surgery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/surgery/</guid>
+      <guid>https://CRPPCT.github.io/post/surgery/</guid>
       <description>&lt;p&gt;目录 外科绪论 This is  first post.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>丁香园阅读清单的链接</title>
-      <link>http://example.org/post/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E7%9A%84%E9%93%BE%E6%8E%A5/</link>
+      <link>https://CRPPCT.github.io/post/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E7%9A%84%E9%93%BE%E6%8E%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E7%9A%84%E9%93%BE%E6%8E%A5/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E7%9A%84%E9%93%BE%E6%8E%A5/</guid>
       <description>&lt;p&gt;多种&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>临时嘱托</title>
-      <link>http://example.org/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</link>
+      <link>https://CRPPCT.github.io/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%B8%B4%E6%97%B6%E5%98%B1%E6%89%98/</guid>
       <description>&lt;p&gt;以图片形式&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>五官科解剖学</title>
-      <link>http://example.org/post/anatomy/</link>
+      <link>https://CRPPCT.github.io/post/anatomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/anatomy/</guid>
+      <guid>https://CRPPCT.github.io/post/anatomy/</guid>
       <description>&lt;p&gt;头眼耳鼻喉&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>体格检查</title>
-      <link>http://example.org/post/%E4%BD%93%E6%A0%BC%E6%A3%80%E6%9F%A5/</link>
+      <link>https://CRPPCT.github.io/post/%E4%BD%93%E6%A0%BC%E6%A3%80%E6%9F%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%BD%93%E6%A0%BC%E6%A3%80%E6%9F%A5/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%BD%93%E6%A0%BC%E6%A3%80%E6%9F%A5/</guid>
       <description>&lt;p&gt;查体基本项目&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>儿科专科查体示范</title>
-      <link>http://example.org/post/%E4%B8%93%E7%A7%91%E6%9F%A5%E4%BD%93/</link>
+      <link>https://CRPPCT.github.io/post/%E4%B8%93%E7%A7%91%E6%9F%A5%E4%BD%93/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%B8%93%E7%A7%91%E6%9F%A5%E4%BD%93/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%B8%93%E7%A7%91%E6%9F%A5%E4%BD%93/</guid>
       <description>** 专科查体** ！第五章风湿性疾病 病例24尿色加深半年，乏力4天。 女 15岁系统性红斑狼疮（SLE）合并溶血性贫血。
 体温36.6℃，脉搏96次/分，呼吸25次/分，血压90/60mmHg。神志清，精神弱，贫血貌，呼吸尚平稳，全身皮肤未见皮疹、黄疸及出血点。浅表淋巴结未触及肿大。双眼脸无水肿，脸结膜苍白，口唇稍苍白。咽无充血，双侧扁桃体不大，双肺呼吸音清，未闻及啰音。心音有力，心前区可闻及2/6级收缩期杂音。腹软，肝肋下未触及，脾脏肿大，1线为7.5cm，2线为6.3cm，3线为6.1cm，质韧。双下肢无水肿。四肢肌力、肌张力正常。巴氏征阴性。
 病例25 周身乏力、面色苍白2个月，双眼脸水肿10天。女9岁 系统性红斑狼疮合并狼疮性肾炎。
@@ -180,19 +171,19 @@ Quick Start =right（A1,len(A1)-1)前面第一个删除=left（A2,len(A2)-1)末
     
     <item>
       <title>儿科解热镇痛药</title>
-      <link>http://example.org/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</link>
+      <link>https://CRPPCT.github.io/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</guid>
       <description>&lt;p&gt;非甾体抗炎药Nonsteroidal Antiinflammatory Drugs，NSAIDs包括阿司匹林、对乙酰氨基酚、吲哚美辛、萘普生、萘普酮、双氯芬酸、布洛芬、尼美舒利、罗非昔布、塞来昔布等&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>发热课本截图</title>
-      <link>http://example.org/post/%E5%8F%91%E7%83%AD%E8%AF%BE%E6%9C%AC%E6%88%AA%E5%9B%BE/</link>
+      <link>https://CRPPCT.github.io/post/%E5%8F%91%E7%83%AD%E8%AF%BE%E6%9C%AC%E6%88%AA%E5%9B%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%8F%91%E7%83%AD%E8%AF%BE%E6%9C%AC%E6%88%AA%E5%9B%BE/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%8F%91%E7%83%AD%E8%AF%BE%E6%9C%AC%E6%88%AA%E5%9B%BE/</guid>
       <description>&lt;p&gt;This is Diagnostics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;视触扣听**&lt;/li&gt;
@@ -201,20 +192,20 @@ Quick Start =right（A1,len(A1)-1)前面第一个删除=left（A2,len(A2)-1)末
     
     <item>
       <title>咳嗽咳痰</title>
-      <link>http://example.org/post/%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0/</link>
+      <link>https://CRPPCT.github.io/post/%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0/</guid>
       <description>&lt;p&gt;**咳嗽（cough）与咳痰（expectoration）**是临床最常见的症状之一。咳嗽是一种反射性防御动作，通过咳嗽可以清除呼吸道内分泌物或异物。但是咳嗽也有不利的一面，如咳嗽可使呼吸道感染扩散，剧烈咳嗽可诱发略血及自发性气胸等。因此，如果频繁的咳嗽影响工作与休息，则为病理状态。
 痰液是气管、支气管的分泌物或肺泡内的渗出液，借助咳嗽将其排出称为咳痰。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>在线PDF</title>
-      <link>http://example.org/post/%E5%9C%A8%E7%BA%BFpdf/</link>
+      <link>https://CRPPCT.github.io/post/%E5%9C%A8%E7%BA%BFpdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%9C%A8%E7%BA%BFpdf/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%9C%A8%E7%BA%BFpdf/</guid>
       <description>在线电子书
 chrome 一， 各科文书书写 胸部绪论 肺和胸膜 心脏循环系统 腹部章节
 体格检查第九版 诊断学笔记 消化科疑难问题解析 普通外科规培分册 消化内科规培分册 基本外科技巧
@@ -227,10 +218,10 @@ chrome 一， 各科文书书写 胸部绪论 肺和胸膜 心脏循环系统 �
     
     <item>
       <title>小修饰</title>
-      <link>http://example.org/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</link>
+      <link>https://CRPPCT.github.io/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%B0%8F%E4%BF%AE%E9%A5%B0/</guid>
       <description>参照来自某些小修饰（加粗，颜色变化等）
 Quick Start 插入字 https://brook-power-970.notion.site/PDF-918fcbeb57bf482a84b6a609b454b806
 上标字123 123下标字 redis 是非常重要的。
@@ -239,84 +230,84 @@ Quick Start 插入字 https://brook-power-970.notion.site/PDF-918fcbeb57bf482a84
     
     <item>
       <title>小儿发热</title>
-      <link>http://example.org/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</link>
+      <link>https://CRPPCT.github.io/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</guid>
       <description>&lt;p&gt;发热是儿科最常见的症状之一，是机体对致热原的反应，对机体防御功能的影响利弊并存。退热治疗的主要目标是改善患儿舒适度。对于发热儿童应重点评估患有严重疾病的危险性及查找病因。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>常用知识点</title>
-      <link>http://example.org/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <link>https://CRPPCT.github.io/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
       <description>&lt;p&gt;常用知识点，淀粉酶心肌酶血脂痛风，儿童公式，抗病毒药物分类&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>手足外科解剖</title>
-      <link>http://example.org/post/%E5%A4%96%E7%A7%91%E8%A7%A3%E5%89%96%E5%89%AF%E6%9C%AC/</link>
+      <link>https://CRPPCT.github.io/post/%E5%A4%96%E7%A7%91%E8%A7%A3%E5%89%96%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%A4%96%E7%A7%91%E8%A7%A3%E5%89%96%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%A4%96%E7%A7%91%E8%A7%A3%E5%89%96%E5%89%AF%E6%9C%AC/</guid>
       <description>&lt;p&gt;手足外科解剖&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>抗生素用法表</title>
-      <link>http://example.org/post/%E6%8A%97%E7%94%9F%E7%B4%A0%E7%94%A8%E6%B3%95%E8%A1%A8/</link>
+      <link>https://CRPPCT.github.io/post/%E6%8A%97%E7%94%9F%E7%B4%A0%E7%94%A8%E6%B3%95%E8%A1%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E6%8A%97%E7%94%9F%E7%B4%A0%E7%94%A8%E6%B3%95%E8%A1%A8/</guid>
+      <guid>https://CRPPCT.github.io/post/%E6%8A%97%E7%94%9F%E7%B4%A0%E7%94%A8%E6%B3%95%E8%A1%A8/</guid>
       <description>&lt;p&gt;抗生素用法表，excel&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>抗菌药分类概览</title>
-      <link>http://example.org/post/%E6%8A%97%E8%8F%8C%E8%8D%AF%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</link>
+      <link>https://CRPPCT.github.io/post/%E6%8A%97%E8%8F%8C%E8%8D%AF%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E6%8A%97%E8%8F%8C%E8%8D%AF%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</guid>
+      <guid>https://CRPPCT.github.io/post/%E6%8A%97%E8%8F%8C%E8%8D%AF%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>病历copy</title>
-      <link>http://example.org/post/%E7%97%85%E5%8E%86copy/</link>
+      <link>https://CRPPCT.github.io/post/%E7%97%85%E5%8E%86copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%97%85%E5%8E%86copy/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%97%85%E5%8E%86copy/</guid>
       <description>&lt;p&gt;病史采集https://web.baimiaoapp.com/
 &lt;a href=&#34;https://pearocr.com/&#34;&gt;https://pearocr.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>病历示范</title>
-      <link>http://example.org/post/%E7%97%85%E5%8E%86%E7%A4%BA%E8%8C%83internal-medicine/</link>
+      <link>https://CRPPCT.github.io/post/%E7%97%85%E5%8E%86%E7%A4%BA%E8%8C%83internal-medicine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%97%85%E5%8E%86%E7%A4%BA%E8%8C%83internal-medicine/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%97%85%E5%8E%86%E7%A4%BA%E8%8C%83internal-medicine/</guid>
       <description>&lt;p&gt;Internal Medicine 病历&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>病史采集图片</title>
-      <link>http://example.org/post/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86/</link>
+      <link>https://CRPPCT.github.io/post/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86/</guid>
       <description>&lt;p&gt;病史采集https://web.baimiaoapp.com/
 &lt;a href=&#34;https://pearocr.com/&#34;&gt;https://pearocr.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>症状发热</title>
-      <link>http://example.org/post/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</link>
+      <link>https://CRPPCT.github.io/post/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</guid>
       <description>&lt;p&gt;This is Diagnostics&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;视触扣听**&lt;/li&gt;
@@ -325,157 +316,157 @@ Quick Start 插入字 https://brook-power-970.notion.site/PDF-918fcbeb57bf482a84
     
     <item>
       <title>第二十一节 尿频、尿急与尿痛</title>
-      <link>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%8A%82-%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5%E4%B8%8E%E5%B0%BF%E7%97%9B/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%8A%82-%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5%E4%B8%8E%E5%B0%BF%E7%97%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%8A%82-%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5%E4%B8%8E%E5%B0%BF%E7%97%9B/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E8%8A%82-%E5%B0%BF%E9%A2%91%E5%B0%BF%E6%80%A5%E4%B8%8E%E5%B0%BF%E7%97%9B/</guid>
       <description>&lt;p&gt;&lt;strong&gt;尿频（frequent micturition）&lt;/strong&gt; 是指单位时间内排尿次数增多。正常成人白天排尿4~6次，夜间0~2次。尿急（urgent micturition）是指病人一有尿意即迫不及待需要排尿，难以控制。尿痛
 （odynuria）是指病人排尿时感觉耻骨上区、会阴部和尿道内疼痛或烧灼感。尿频、尿急和尿痛合称为膀胱刺激征。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第二十七节 头痛</title>
-      <link>http://example.org/post/kopi-copy/</link>
+      <link>https://CRPPCT.github.io/post/kopi-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/kopi-copy/</guid>
+      <guid>https://CRPPCT.github.io/post/kopi-copy/</guid>
       <description>&lt;p&gt;头痛（headache）指眉弓、耳廊上部、枕外隆突连线以上部位的疼痛。国际头痛疾病分类第3版（beta版）将头痛分为三部分：①原发性头痛；②继发性头痛；③痛性脑神经病、其他面痛和头痛。
 原发性头痛可视为一种独立的疾病，而继发性头痛则是继发于其他疾病的一种症状。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第二十七节 头痛</title>
-      <link>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%B4-%E7%97%9B/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%B4-%E7%97%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%B4-%E7%97%9B/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E8%8A%82-%E5%A4%B4-%E7%97%9B/</guid>
       <description>&lt;p&gt;头痛（headache）指眉弓、耳廊上部、枕外隆突连线以上部位的疼痛。国际头痛疾病分类第3版（beta版）将头痛分为三部分：①原发性头痛；②继发性头痛；③痛性脑神经病、其他面痛和头痛。
 原发性头痛可视为一种独立的疾病，而继发性头痛则是继发于其他疾病的一种症状。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第二十九节 晕厥</title>
-      <link>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E8%8A%82-%E6%99%95%E5%8E%A5/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E8%8A%82-%E6%99%95%E5%8E%A5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E8%8A%82-%E6%99%95%E5%8E%A5/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E8%8A%82-%E6%99%95%E5%8E%A5/</guid>
       <description>&lt;p&gt;**晕厥（syncope）**是指一过性广泛脑供血不足所致短暂的意识丧失状态。发作时病人因肌张力消失不能保持正常姿势而倒地，一般为突然发作，迅速恢复，很少有后遗症。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第二十二节少尿无尿多尿</title>
-      <link>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%8A%82%E5%B0%91%E5%B0%BF%E6%97%A0%E5%B0%BF%E5%A4%9A%E5%B0%BF/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%8A%82%E5%B0%91%E5%B0%BF%E6%97%A0%E5%B0%BF%E5%A4%9A%E5%B0%BF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%8A%82%E5%B0%91%E5%B0%BF%E6%97%A0%E5%B0%BF%E5%A4%9A%E5%B0%BF/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E8%8A%82%E5%B0%91%E5%B0%BF%E6%97%A0%E5%B0%BF%E5%A4%9A%E5%B0%BF/</guid>
       <description>&lt;p&gt;正常成人24小时尿量约为1000至2000ml。如24小时尿量少于400ml，或每小时尿量少于17ml 称为少尿（oliguria）；如24 小时尿量少于100ml，12小时完全无尿称为无尿；如24小时尿量超过2500ml称为多尿（polyuria）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第二十八节眩晕</title>
-      <link>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E8%8A%82%E7%9C%A9%E6%99%95/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E8%8A%82%E7%9C%A9%E6%99%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E8%8A%82%E7%9C%A9%E6%99%95/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E8%8A%82%E7%9C%A9%E6%99%95/</guid>
       <description>&lt;p&gt;眩晕（vertigo）是病人感到自身或周围环境物体旋转或摇动的一种主观感觉障碍，常伴有客观，的平衡障碍，一般无意识障碍。临床上将眩晕分为：①前庭系统性眩晕：亦称真性眩晕，由前庭神经系统功能障碍引起，表现有旋转感、摇晃感、移动感等；②非前庭系统性眩晕：亦称一般性眩晕，多由全身性疾病引起，表现为头晕、头胀、头重脚轻、眼花等，有时似觉颅内在转动但并无外境或自身旋转的感觉。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第十 恶心呕吐</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E8%8A%82%E6%81%B6%E5%BF%83/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E8%8A%82%E6%81%B6%E5%BF%83/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E8%8A%82%E6%81%B6%E5%BF%83/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E8%8A%82%E6%81%B6%E5%BF%83/</guid>
       <description>&lt;p&gt;恶心（nausea）、呕吐（vomiting）是临床常见症状。恶心为上腹部不适和紧迫欲吐的感觉。可伴有迷走神经兴奋的症状，如皮肤苍白、出汗、流涎、血压降低及心动过缓等，常为呕吐的前奏。一般恶心后随之呕吐，但也可仅有恶心而无呕吐，或仅有呕吐而无恶心。呕吐是通过胃的强烈收缩迫使胃或部分小肠内容物经食管、口腔而排出体外的现象。二者均为复杂的反射动作，可由多种原因引起。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第十三节 便血</title>
-      <link>http://example.org/post/%E4%BE%BF%E8%A1%80/</link>
+      <link>https://CRPPCT.github.io/post/%E4%BE%BF%E8%A1%80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E4%BE%BF%E8%A1%80/</guid>
+      <guid>https://CRPPCT.github.io/post/%E4%BE%BF%E8%A1%80/</guid>
       <description>&lt;p&gt;便血（hematochezia）是指消化道出血，血液由肛门排出。便血颜色可呈鲜红、暗红或黑色。少量出血不造成类便颜色改变，需经隐血试验才能确定者，称为隐血（occult blood）。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第十九节 关节痛</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E5%85%B3%E8%8A%82%E7%97%9B/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E5%85%B3%E8%8A%82%E7%97%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E5%85%B3%E8%8A%82%E7%97%9B/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%8A%82-%E5%85%B3%E8%8A%82%E7%97%9B/</guid>
       <description>&lt;p&gt;关节痛（arthralgia）是关节疾病最常见的症状，可因单纯的关节病变或全身性疾病所致。关节痛分为急性和慢性两类。急性关节痛以关节及其周围组织的炎性反应为主，慢性关节痛则以关节囊肥厚及骨质增生为主。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第十五节 腹泻</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%BA%94%E8%8A%82-%E8%85%B9%E6%B3%BB/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%BA%94%E8%8A%82-%E8%85%B9%E6%B3%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%BA%94%E8%8A%82-%E8%85%B9%E6%B3%BB/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%BA%94%E8%8A%82-%E8%85%B9%E6%B3%BB/</guid>
       <description>&lt;p&gt;**腹泻（diarrhea）**指排便次数增多，粪质稀薄，或带有黏液、脓血或未消化的食物。如解液状便，每日3次以上，或每天类便总量大于200g，其中类便含水量大于80%，则可认为是腹泻。腹泻可分为急性与慢性两种，超过两个月者属慢性腹泻。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>第十八节 腰背痛</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E5%85%AB%E8%8A%82-%E8%85%B0%E8%83%8C%E7%97%9B/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E5%85%AB%E8%8A%82-%E8%85%B0%E8%83%8C%E7%97%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E5%85%AB%E8%8A%82-%E8%85%B0%E8%83%8C%E7%97%9B/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E5%85%AB%E8%8A%82-%E8%85%B0%E8%83%8C%E7%97%9B/</guid>
       <description>&lt;p&gt;腰背痛（lumbodorsalgia）是临床常见的症状之一。许多疾病可引起腰背痛，局部病变引起者占多数，可能与腰背部长期负重，其结构易于损伤有关。邻近器官病变波及或放射性腰背痛也很常见。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>系统解剖学pdf</title>
-      <link>http://example.org/post/%E8%A7%A3%E5%89%96%E5%AD%A6%E5%9C%A8%E7%BA%BFpdf/</link>
+      <link>https://CRPPCT.github.io/post/%E8%A7%A3%E5%89%96%E5%AD%A6%E5%9C%A8%E7%BA%BFpdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E8%A7%A3%E5%89%96%E5%AD%A6%E5%9C%A8%E7%BA%BFpdf/</guid>
+      <guid>https://CRPPCT.github.io/post/%E8%A7%A3%E5%89%96%E5%AD%A6%E5%9C%A8%E7%BA%BFpdf/</guid>
       <description>&lt;p&gt;系统解剖学系统&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>腹痛</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E8%85%B9%E7%97%9B/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E8%85%B9%E7%97%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E8%85%B9%E7%97%9B/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E5%9B%9B%E8%8A%82-%E8%85%B9%E7%97%9B/</guid>
       <description>&lt;p&gt;腹痛（abdominal pain）是临床常见的症状，多数由腹部脏器疾病引起，但腹腔外疾病及全身性疾病也可引起。腹痛的性质和程度，既受病变性质和病变严重程度影响，也受神经和心理因素影响。由于腹痛的病因较多，病理机制复杂，因此，必须认真了解病史，进行全面体格检查和必要的辅助检查，并结合病理生理改变进行综合分析。临床上一般将腹痛按起病缓急、病程长短分为急性腹痛和慢性腹痛。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>药品笔记</title>
-      <link>http://example.org/post/pharmacology/</link>
+      <link>https://CRPPCT.github.io/post/pharmacology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/pharmacology/</guid>
+      <guid>https://CRPPCT.github.io/post/pharmacology/</guid>
       <description>&lt;p&gt;tid bid&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>药品说明复制</title>
-      <link>http://example.org/post/%E7%8E%B0%E6%9C%89%E8%8D%AF%E5%93%81/</link>
+      <link>https://CRPPCT.github.io/post/%E7%8E%B0%E6%9C%89%E8%8D%AF%E5%93%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%8E%B0%E6%9C%89%E8%8D%AF%E5%93%81/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%8E%B0%E6%9C%89%E8%8D%AF%E5%93%81/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     
     <item>
       <title>补钾</title>
-      <link>http://example.org/post/%E8%A1%A5%E9%92%BE%E6%88%AA%E5%9B%BE/</link>
+      <link>https://CRPPCT.github.io/post/%E8%A1%A5%E9%92%BE%E6%88%AA%E5%9B%BE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E8%A1%A5%E9%92%BE%E6%88%AA%E5%9B%BE/</guid>
+      <guid>https://CRPPCT.github.io/post/%E8%A1%A5%E9%92%BE%E6%88%AA%E5%9B%BE/</guid>
       <description>&lt;p&gt;补钾&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>防控常态化四问</title>
-      <link>http://example.org/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E9%98%B2%E6%8E%A7%E5%B8%B8%E6%80%81%E5%8C%96%E5%9B%9B%E9%97%AE/</link>
+      <link>https://CRPPCT.github.io/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E9%98%B2%E6%8E%A7%E5%B8%B8%E6%80%81%E5%8C%96%E5%9B%9B%E9%97%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E9%98%B2%E6%8E%A7%E5%B8%B8%E6%80%81%E5%8C%96%E5%9B%9B%E9%97%AE/</guid>
+      <guid>https://CRPPCT.github.io/post/%E5%8F%A3%E8%A2%8B%E4%B9%A6%E9%98%B2%E6%8E%A7%E5%B8%B8%E6%80%81%E5%8C%96%E5%9B%9B%E9%97%AE/</guid>
       <description>Quick Start 一，中心重点重点岗位有哪些?核酸检测频次? 重点岗位:发热哨点诊室、预检分诊、核酸采样人员(包括冷冻食品采样、核酸采样亭、检验室)、医废处置人员、新冠病毒核酸标本转运人员。
 1.预检分诊工作内容及工作流程是什么? (一) 工作流程 患者至中心就诊 进行预检 (查健康码、行程码、疫苗接种情况、测量体温，询问流行病学史，佩戴口 无旅居史发热(237.3C) 红码、黄码 有症状有旅居史人员 其他普通就诊
 咳嗽、黄痘、腹泻味觉丧失等 疏散人群，教患者穿好防护服专人引导至 普通科室就诊 留观室，初筛流行病学史后上报排除 不排除 采样后，嘱患者做好防 护 发热哨点诊室就诊 严格居家监测，核酸阴性 上报后等待负压救护车转运 后按照现实防控政策管控
@@ -488,19 +479,19 @@ Quick Start 插入字 https://brook-power-970.notion.site/PDF-918fcbeb57bf482a84
     
     <item>
       <title>高血压分级</title>
-      <link>http://example.org/post/%E9%AB%98%E8%A1%80%E5%8E%8B%E5%88%86%E7%BA%A7/</link>
+      <link>https://CRPPCT.github.io/post/%E9%AB%98%E8%A1%80%E5%8E%8B%E5%88%86%E7%BA%A7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E9%AB%98%E8%A1%80%E5%8E%8B%E5%88%86%E7%BA%A7/</guid>
+      <guid>https://CRPPCT.github.io/post/%E9%AB%98%E8%A1%80%E5%8E%8B%E5%88%86%E7%BA%A7/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.nccd.org.cn/News/Articles/Index/1202.htm&#34;&gt;国家心血管病中心&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>黄疸</title>
-      <link>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E9%BB%84%E7%96%B8/</link>
+      <link>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E9%BB%84%E7%96%B8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E9%BB%84%E7%96%B8/</guid>
+      <guid>https://CRPPCT.github.io/post/%E7%AC%AC%E5%8D%81%E4%B8%83%E8%8A%82-%E9%BB%84%E7%96%B8/</guid>
       <description>&lt;p&gt;黄疸（jaundice）是由于血清中胆红素升高致使皮肤、黏膜和巩膜发黄的症状和体征。正常血清总胆红素为1.7到17.1pmol/L（0.1 到 1mg/dl）。胆红素在17.1到34.2pmol/L（1 到 2mg/dl），临床不易察觉，称为隐性黄疸，超过34.2pmol/L（2mg/dl）时出现临床可见黄疸。&lt;/p&gt;</description>
     </item>
     
