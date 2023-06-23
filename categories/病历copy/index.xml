@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>病历copy on The doctor job</title>
+    <link>http://example.org/categories/%E7%97%85%E5%8E%86copy/</link>
+    <description>Recent content in 病历copy on The doctor job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/categories/%E7%97%85%E5%8E%86copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>病历copy</title>
+      <link>http://example.org/post/%E7%97%85%E5%8E%86copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E7%97%85%E5%8E%86copy/</guid>
+      <description>&lt;p&gt;病史采集https://web.baimiaoapp.com/
+&lt;a href=&#34;https://pearocr.com/&#34;&gt;https://pearocr.com/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

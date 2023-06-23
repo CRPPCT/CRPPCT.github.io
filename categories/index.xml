@@ -6,7 +6,16 @@
     <description>Recent content in Categories on The doctor job</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 22:45:55 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 21:45:55 +0800</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>告知书</title>
+      <link>http://example.org/categories/%E5%91%8A%E7%9F%A5%E4%B9%A6/</link>
+      <pubDate>Fri, 23 Jun 2023 21:45:55 +0800</pubDate>
+      
+      <guid>http://example.org/categories/%E5%91%8A%E7%9F%A5%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>计算机相关</title>
       <link>http://example.org/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/</link>
@@ -26,11 +35,11 @@
     </item>
     
     <item>
-      <title>markdown使用</title>
-      <link>http://example.org/categories/markdown%E4%BD%BF%E7%94%A8/</link>
+      <title>学</title>
+      <link>http://example.org/categories/%E5%AD%A6/</link>
       <pubDate>Fri, 02 Jun 2023 21:45:55 +0800</pubDate>
       
-      <guid>http://example.org/categories/markdown%E4%BD%BF%E7%94%A8/</guid>
+      <guid>http://example.org/categories/%E5%AD%A6/</guid>
       <description></description>
     </item>
     
@@ -40,6 +49,285 @@
       <pubDate>Fri, 02 Jun 2023 21:05:55 +0800</pubDate>
       
       <guid>http://example.org/categories/%E7%97%85%E5%8F%B2%E9%87%87%E9%9B%86%E5%9B%BE%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🍼儿科</title>
+      <link>http://example.org/categories/%E5%84%BF%E7%A7%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%84%BF%E7%A7%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>01在线电子书</title>
+      <link>http://example.org/categories/01%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/01%E5%9C%A8%E7%BA%BF%E7%94%B5%E5%AD%90%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>http://example.org/categories/excel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal内科</title>
+      <link>http://example.org/categories/internal%E5%86%85%E7%A7%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/internal%E5%86%85%E7%A7%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MD语法</title>
+      <link>http://example.org/categories/md%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/md%E8%AF%AD%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>丁香园阅读清单链接</title>
+      <link>http://example.org/categories/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E9%93%BE%E6%8E%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E4%B8%81%E9%A6%99%E5%9B%AD%E9%98%85%E8%AF%BB%E6%B8%85%E5%8D%95%E9%93%BE%E6%8E%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>五官科</title>
+      <link>http://example.org/categories/%E4%BA%94%E5%AE%98%E7%A7%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E4%BA%94%E5%AE%98%E7%A7%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>内科学</title>
+      <link>http://example.org/categories/%E5%86%85%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%86%85%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分类概览</title>
+      <link>http://example.org/categories/%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%88%86%E7%B1%BB%E6%A6%82%E8%A7%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>发热用药原则</title>
+      <link>http://example.org/categories/%E5%8F%91%E7%83%AD%E7%94%A8%E8%8D%AF%E5%8E%9F%E5%88%99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%8F%91%E7%83%AD%E7%94%A8%E8%8D%AF%E5%8E%9F%E5%88%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>口袋书</title>
+      <link>http://example.org/categories/%E5%8F%A3%E8%A2%8B%E4%B9%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%8F%A3%E8%A2%8B%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>外科类</title>
+      <link>http://example.org/categories/%E5%A4%96%E7%A7%91%E7%B1%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%A4%96%E7%A7%91%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>工作提醒</title>
+      <link>http://example.org/categories/%E5%B7%A5%E4%BD%9C%E6%8F%90%E9%86%92/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%B7%A5%E4%BD%9C%E6%8F%90%E9%86%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>常用知识点</title>
+      <link>http://example.org/categories/%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%B8%B8%E7%94%A8%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>常见症状</title>
+      <link>http://example.org/categories/%E5%B8%B8%E8%A7%81%E7%97%87%E7%8A%B6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%B8%B8%E8%A7%81%E7%97%87%E7%8A%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>心血管</title>
+      <link>http://example.org/categories/%E5%BF%83%E8%A1%80%E7%AE%A1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E5%BF%83%E8%A1%80%E7%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>手足外科</title>
+      <link>http://example.org/categories/%E6%89%8B%E8%B6%B3%E5%A4%96%E7%A7%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E6%89%8B%E8%B6%B3%E5%A4%96%E7%A7%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>抗菌药</title>
+      <link>http://example.org/categories/%E6%8A%97%E8%8F%8C%E8%8D%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E6%8A%97%E8%8F%8C%E8%8D%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>用法表</title>
+      <link>http://example.org/categories/%E7%94%A8%E6%B3%95%E8%A1%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%94%A8%E6%B3%95%E8%A1%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>用药</title>
+      <link>http://example.org/categories/%E7%94%A8%E8%8D%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%94%A8%E8%8D%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>病历copy</title>
+      <link>http://example.org/categories/%E7%97%85%E5%8E%86copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%97%85%E5%8E%86copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>病历书写</title>
+      <link>http://example.org/categories/%E7%97%85%E5%8E%86%E4%B9%A6%E5%86%99/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%97%85%E5%8E%86%E4%B9%A6%E5%86%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>症状发热</title>
+      <link>http://example.org/categories/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%97%87%E7%8A%B6%E5%8F%91%E7%83%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>系统解剖学</title>
+      <link>http://example.org/categories/%E7%B3%BB%E7%BB%9F%E8%A7%A3%E5%89%96%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E7%B3%BB%E7%BB%9F%E8%A7%A3%E5%89%96%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>药品</title>
+      <link>http://example.org/categories/%E8%8D%AF%E5%93%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%8D%AF%E5%93%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>药品笔记本</title>
+      <link>http://example.org/categories/%E8%8D%AF%E5%93%81%E7%AC%94%E8%AE%B0%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%8D%AF%E5%93%81%E7%AC%94%E8%AE%B0%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>补液，补钾</title>
+      <link>http://example.org/categories/%E8%A1%A5%E6%B6%B2%E8%A1%A5%E9%92%BE/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%A1%A5%E6%B6%B2%E8%A1%A5%E9%92%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解剖学</title>
+      <link>http://example.org/categories/%E8%A7%A3%E5%89%96%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%A7%A3%E5%89%96%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解剖类</title>
+      <link>http://example.org/categories/%E8%A7%A3%E5%89%96%E7%B1%BB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%A7%A3%E5%89%96%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>解热镇痛</title>
+      <link>http://example.org/categories/%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诊断学</title>
+      <link>http://example.org/categories/%E8%AF%8A%E6%96%AD%E5%AD%A6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/categories/%E8%AF%8A%E6%96%AD%E5%AD%A6/</guid>
       <description></description>
     </item>
     

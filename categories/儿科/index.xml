@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🍼儿科 on The doctor job</title>
+    <link>http://example.org/categories/%E5%84%BF%E7%A7%91/</link>
+    <description>Recent content in 🍼儿科 on The doctor job</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/categories/%E5%84%BF%E7%A7%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>儿科解热镇痛药</title>
+      <link>http://example.org/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E5%84%BF%E7%A7%91%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E8%8D%AF/</guid>
+      <description>&lt;p&gt;非甾体抗炎药Nonsteroidal Antiinflammatory Drugs，NSAIDs包括阿司匹林、对乙酰氨基酚、吲哚美辛、萘普生、萘普酮、双氯芬酸、布洛芬、尼美舒利、罗非昔布、塞来昔布等&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>小儿发热</title>
+      <link>http://example.org/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/%E5%B0%8F%E5%84%BF%E5%8F%91%E7%83%AD/</guid>
+      <description>&lt;p&gt;发热是儿科最常见的症状之一，是机体对致热原的反应，对机体防御功能的影响利弊并存。退热治疗的主要目标是改善患儿舒适度。对于发热儿童应重点评估患有严重疾病的危险性及查找病因。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
